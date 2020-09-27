@@ -8,7 +8,7 @@ Each task costs exactly N points where N is the variable that depends on the tas
 Your final grade will be calculated with the formula: n ≥ 40 ? round(3 + (n - 40) / 8.5) : 0
 
 ### Marks
-Can be found [https://docs.google.com/spreadsheets/d/1vyujWJSkl97zEH2YQs9lJ4rUdJ4PEFBkqwgUeQ7AaaU/edit?usp=sharing](here).
+Can be found [here](https://docs.google.com/spreadsheets/d/1vyujWJSkl97zEH2YQs9lJ4rUdJ4PEFBkqwgUeQ7AaaU/edit?usp=sharing).
 
 ### Contacts:
 tg: @konstantinleladze
