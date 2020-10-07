@@ -10,4 +10,4 @@ You'll need to send me the screenshot with the proof that your code compiles and
 The task costs 15 points.
 
 #### Deadline:
-5 Oct 2020 23:59:59
+19 Oct 2020 23:59:59
