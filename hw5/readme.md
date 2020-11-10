@@ -37,7 +37,7 @@ lrwxrwxrwx 1 root root       34 initrd -> initrd-4.12.14-lp150.12.22-default \
 -rw-r--r-- 1 root root  3474420 System.map-4.12.14-lp150.12.22-default \
 -rw-r--r-- 1 root root  8028448 vmlinux-4.12.14-lp150.12.22-default.gz \
 lrwxrwxrwx 1 root root       35 vmlinuz -> vmlinuz-4.12.14-lp150.12.22-default \
--rw-r--r-- 1 root root  7057520 vmlinuz-4.12.14-lp150.12.22-default \
+-rw-r--r-- 1 root root  7057520 vmlinuz-4.12.14-lp150.12.22-default
 
 
 #### Deadline:
