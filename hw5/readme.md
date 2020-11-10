@@ -48,5 +48,5 @@ You need to send at least partially working solution by Nov 24-th 23:59:59.
 #### Deadline:
 Nov 30, 23:59:59
 
-#### ls -l:
+#### Points:
 This task costs 18pts
