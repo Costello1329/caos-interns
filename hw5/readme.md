@@ -22,7 +22,7 @@ In case of an error, output the error text to the standard error stream and exit
 
 ##### Output
 
-`-rw-r--r-- 1 root root      512 backup_mbr \
+-rw-r--r-- 1 root root      512 backup_mbr \
 lrwxrwxrwx 1 root root        1 boot -> . \
 -rw-r--r-- 1 root root     1725 boot.readme \
 -rw-r--r-- 1 root root   196482 config-4.12.14-lp150.12.22-default \
@@ -37,7 +37,7 @@ lrwxrwxrwx 1 root root       34 initrd -> initrd-4.12.14-lp150.12.22-default \
 -rw-r--r-- 1 root root  3474420 System.map-4.12.14-lp150.12.22-default \
 -rw-r--r-- 1 root root  8028448 vmlinux-4.12.14-lp150.12.22-default.gz \
 lrwxrwxrwx 1 root root       35 vmlinuz -> vmlinuz-4.12.14-lp150.12.22-default \
--rw-r--r-- 1 root root  7057520 vmlinuz-4.12.14-lp150.12.22-default \ `
+-rw-r--r-- 1 root root  7057520 vmlinuz-4.12.14-lp150.12.22-default \
 
 
 #### Deadline:
