@@ -8,7 +8,7 @@ You need to calculate the value of this expression (we represent the final resul
 #### Examples
 
 ##### Input
-((2 * 2 + 2) | 5
+(2 * 2 + 2) | 5
 
 ##### Output
 7
