@@ -42,4 +42,6 @@ lrwxrwxrwx 1 root root       35 vmlinuz -> vmlinuz-4.12.14-lp150.12.22-default \
 
 #### Deadline:
 Dec 1, 23:59:59
-      
+
+#### ls -l:
+This task costs 18pts
