@@ -42,6 +42,9 @@ lrwxrwxrwx 1 root root       35 vmlinuz -> vmlinuz-4.12.14-lp150.12.22-default \
 #### Codereview
 In order to pass the task you will need to attend the review. It will be conducted via zoom meeting for every student personally. It should last around 15mins for every student. The codereview will be conducted at the seminar time. It will be start Dec 1-st 13:55.
 
+### Checking solutions and soft deadline
+You need to send at least partially working solution by Nov 24-th 23:59:59.
+
 #### Deadline:
 Nov 30, 23:59:59
 
