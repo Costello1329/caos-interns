@@ -7,7 +7,7 @@ The name of the directory is passed to the program as an argument.
 
 It is necessary to display the contents of the directory as:
 
-ATTRIBUTES QTY_REFERENCE OWNER GROUP SIZE NAME
+ATTRIBUTES QTY_REFERENCE OWNER GROUP SIZE NAME \
 If a file name is specified as an argument, then display information only about this single file.
 
 For symbolic links, print the other filenames they link to.
