@@ -18,7 +18,7 @@ In case of an error, output the error text to the standard error stream and exit
 #### Examples
 
 ##### Input
-/boot
+`ls -l` (inside the /boot directory)
 
 ##### Output
 
