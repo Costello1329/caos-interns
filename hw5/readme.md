@@ -18,7 +18,7 @@ In case of an error, output the error text to the standard error stream and exit
 #### Examples
 
 ##### Input
-`gcc main.c -o ls_l`
+`gcc main.c -o ls_l` \
 `ls_l` (for example, inside the /boot directory)
 
 ##### Output
