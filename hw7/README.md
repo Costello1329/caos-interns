@@ -2,7 +2,7 @@
 
 
 Program receives 3 arguments via stdin: 2 `unsigned`: `w` (width) and `h` (height) and 1 `string`: `filename` (matrix output filename).
-You need to print out the spiral matrix to the `matrix.txt` file (you need to create it if it doesn't exist, otherwise – you need to clear it first).
+You need to print out the spiral matrix to the `matrix.txt` file (you need to create it if it doesn't exist, otherwise – you need to clear it first). You **must** only use mmap for printing out.
 
 #### Examples
 ##### Input: `3 6 matrix.txt`
