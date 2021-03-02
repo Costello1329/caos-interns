@@ -2,7 +2,7 @@
 
 An arbitrary number of arguments is passed to the program: CMD1, CMD2, ..., CMDN.
 It is necessary to implement the equivalent of running them on the command line: CMD1 | CMD2 | ... | CMDN.
-The parent process must end most recently!
+The parent process must end most recently! You must use only one pipe!
 
 #### Examples
 ##### Input: `./a.out ls wc wc`
