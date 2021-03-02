@@ -10,7 +10,7 @@ You need to print out the spiral matrix to the `matrix.txt` file (you need to cr
 `1  2   3` \
 `10 11  4` \
 `9  12  5` \
-`8  7   6` \
+`8  7   6`
 
 #### Deadline:
 Mar 1, 23:59:59
