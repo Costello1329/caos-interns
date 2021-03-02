@@ -5,7 +5,7 @@ Program receives 3 arguments via stdin: 2 `unsigned`: `w` (width) and `h` (heigh
 You need to print out the spiral matrix to the `matrix.txt` file (you need to create it if it doesn't exist, otherwise – you need to clear it first). You **must** only use mmap for printing out.
 
 #### Examples
-##### Input: `3 6 matrix.txt`
+##### Input: `3 4 matrix.txt`
 ##### Output:
 `1  2   3` \
 `10 11  4` \
