@@ -5,7 +5,7 @@
 Tasks and homeworks can be found inside the hw folders. You will have 7 tasks during the first semeter. You'll have the final test also.
 
 #### Second semester
-Tasks and homeworks can be found inside the hw folders. You will have 5 tasks during the second semeter. You'll have the final test also.
+Tasks and homeworks can be found inside the hw folders. You will have 5 tasks during the second semeter. You'll have the final project also.
 
 ### Grading
 #### First semester
