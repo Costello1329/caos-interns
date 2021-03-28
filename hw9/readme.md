@@ -5,11 +5,11 @@ On startup, **ping** should send a `SIGUSR1` signal to **pong** and print `ping`
 
 
 #### Example
-Compile: `gcc ping.c -o ping && gcc pong.c -o pong`
-Run **pong**: `./pong`
-**Pong** outputs its pid: `23942`
-Run **ping**: `./ping 23942`
-**Ping** prints out: `ping`
+Compile: `gcc ping.c -o ping && gcc pong.c -o pong` \
+Run **pong**: `./pong` \
+**Pong** outputs its pid: `23942` \
+Run **ping**: `./ping 23942` \
+**Ping** prints out: `ping` \
 **Pong** prints out: `pong`
 
 #### Deadline:
