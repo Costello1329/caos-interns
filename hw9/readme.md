@@ -4,13 +4,13 @@ You need to create two programs: `ping.c` and `pong.c`. On startup, **pong** sho
 On startup, **ping** should send a `SIGUSR1` signal to **pong** and print `ping`. **Pong** should print `pong` after receiving the `SIGUSR1` signal.
 
 
-#### Examples
-##### Compile: `gcc ping.c -o ping && gcc pong.c -o pong`
-##### Run **pong**: `./pong`
-##### **Pong** outputs its pid: `23942`
-##### Run **ping**: `./ping 23942`
-##### **Ping** prints out: `ping`
-##### **Pong** prints out: `pong`
+#### Example
+Compile: `gcc ping.c -o ping && gcc pong.c -o pong`
+Run **pong**: `./pong`
+**Pong** outputs its pid: `23942`
+Run **ping**: `./ping 23942`
+**Ping** prints out: `ping`
+**Pong** prints out: `pong`
 
 #### Deadline:
 Apr 5, 23:59:59
