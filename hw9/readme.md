@@ -24,6 +24,9 @@ This task costs 6pts
 You need to create two programs: `ping.c` and `pong.c`. On startup, both **ping** and **pong** should print therirs pid and **ping** - should receive **pong**'s pid as argument (via argv).
 On startup, **ping** should receive the value from the stdin and send a `SIGRTMIN` signal to a **pong** (pid has been provided through the argument) and print `ping %d`, where `%d` is a value that it read. **Pong** should print `pong %d`, where `%d` is a value that it received via `SIGRTMIN` signal. Then, **pong** should send the signal back to the **ping** with the value increased by 1. Then, **ping** should send the signal to **pong** with the same value, etc... Also, **ping** should properly handle `SIGTERM`: it should send `SIGTERM` to **pong** and die **right after** that!
 
+#### Important
+You should add delays between receiving the signal and sending it back. Otherwise, program won't work properly. You can add **1s** delay with function `sleep(1)` which is defined in `unistd.h`
+
 #### Example
 Compile: `gcc ping.c -o ping && gcc pong.c -o pong` \
 Run **Pong**: `./pong` \
