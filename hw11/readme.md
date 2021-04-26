@@ -32,7 +32,7 @@ Sherlock Holmes first appeared in a book called 'Study in Scarlet'.
 He became famous in 'The Adventu...
 ```
 
-### POST /file_name:
+#### POST /file_name:
 Creates new file in the `contents` folder if there is no file with the same name yet, returs `409` error otherwise.
 
 ##### Example 1
@@ -67,7 +67,7 @@ HTTP/1.1 200 OK
 Server: caos_hw11_server
 ```
 
-##### How to pass?
+#### How to pass?
 You need to send me the `server.c` file and (optionally) `client.c` in order to pass the h/w.
 
 #### Deadline:
