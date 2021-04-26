@@ -67,11 +67,11 @@ HTTP/1.1 200 OK
 Server: caos_hw11_server
 ```
 
-##### How to pass?
+#### How to pass?
 You need to send me the `server.c` file and (optionally) `client.c` in order to pass the h/w.
 
-##### Deadline:
+#### Deadline:
 May 10, 23:59:59
 
-##### Points:
+#### Points:
 This task costs 18pts
