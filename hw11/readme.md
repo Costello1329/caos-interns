@@ -20,7 +20,7 @@ Server: caos_hw11_server
 ```
 ##### Example 2
 + Request: `GET /text.txt HTTP/1.1`
-+ Response: \
++ Response:
 ```
 HTTP/1.1 200 OK
 Server: caos_hw11_server
