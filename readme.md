@@ -26,7 +26,7 @@ Can be found here: [1-st semester](https://docs.google.com/spreadsheets/d/1vyujW
 
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-All materials are available under license [Creative Commons «Attribution-ShareAlike» 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+All materials are available under license [Creative Commons «Attribution-ShareAlike» 4.0](http://creativecommons.org/licenses/by-sa/4.0/).\
 When borrowing any materials from this repository, you must leave a link to it, also, you should include my name: **Konstantin Leladze**.
 
-__© Konstantin Leladze, [Viktor Yakovlev](https://raw.githubusercontent.com/victor-yacovlev/mipt-diht-caos)__
+__© Konstantin Leladze, [Viktor Yakovlev](https://github.com/victor-yacovlev/mipt-diht-caos)__
